@@ -1,3 +1,2 @@
-# Introduction_to_GitHub
-Learn how to use GitHub
-Now just lean how to make a change & commit a change to a Branch
+Links about Python & SQL Server:
+http://www.c-sharpcorner.com/UploadFile/75a48f/micro/
